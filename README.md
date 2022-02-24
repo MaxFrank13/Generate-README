@@ -1,11 +1,11 @@
 
-# Test3
+# README Generator
 
-[![License Badge](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+[![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-a descriptions that's a little longer
+This is a simple README Generator. You will be prompted to for details that will then be used to generate a markdown file.
 
 ## Table of Contents
 
@@ -18,26 +18,26 @@ a descriptions that's a little longer
 
 ## Installation
 
-this won't be much longer
+Make sure you have Node installed first, then run `npm i` or `npm install`. Once the installation is complete, run `node index.js` and you should receive prompts in the terminal
 
 ## Usage
 
-Anything you want
+This can be used for any README. Adding screenshots or other fine details will need to be done after, however the basic structure of a professional README is provided.
 
 ## Contributing
 
-Just me and the cats
+Feel free to fork the repo and use it for yourself!
 
 ## Tests
 
-No tests yet
+No tests performed or required yet.
 
 ## License
 
-This project is covered up the Eclipse Public License 2.0. Click the badge at the top of the README for more information.
+This project is covered by the MIT License. Click the badge at the top of the README for more information.
 
 ## Questions
 
 [My Github](https://github.com/MaxFrank13)
 
-Contact me at maxfrank13@gmail.com if you have any questions
+Contact me at maxfrank13@gmail.com with any questions

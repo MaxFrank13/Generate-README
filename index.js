@@ -25,7 +25,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Who contributed and what did they do?',
+            message: 'How can someone contribute to this project?',
             name: 'contributing'
         },
         {
@@ -53,7 +53,7 @@ inquirer
     .then(({ title, description, installation, usage, contributing, tests, license, github, email }) => {
         let licenseBadge;
         switch (license) {
-            case "MIT":
+            case "MIT License":
                 licenseBadge = "License-MIT-yellow.svg)](https://opensource.org/licenses/MIT";
                 break;
             case "Apache License 2.0":
@@ -117,7 +117,7 @@ ${tests}
 
 ## License
 
-This project is covered up the ${license}. Click the badge at the top of the README for more information.
+This project is covered by the ${license}. Click the badge at the top of the README for more information.
 
 ## Questions
 
