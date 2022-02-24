@@ -125,7 +125,7 @@ This project is covered by the ${license}. Click the badge at the top of the REA
 
 Contact me at ${email} with any questions
 `
-        fs.writeFile("README.md", readmeString, (err) =>
+        fs.writeFile("./generated/README.md", readmeString, (err) =>
             err ? console.log(err) : console.log('Success!')
         );
     });
