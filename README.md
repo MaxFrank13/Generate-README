@@ -7,6 +7,8 @@
 
 This is a simple README Generator. You will be prompted to for details that will then be used to generate a markdown file.
 
+[![Screenshot of Generator](https://github.com/MaxFrank13/Generate-README/blob/main/assets/app-photo.PNG)]
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -18,7 +20,7 @@ This is a simple README Generator. You will be prompted to for details that will
 
 ## Installation
 
-Make sure you have Node installed first, then run `npm i` or `npm install`. Once the installation is complete, run `node index.js` and you should receive prompts in the terminal
+Make sure you have Node installed first, then run `npm i` or `npm install`. Once the installation is complete, run `node index.js` and you should receive prompts in the terminal. Each answer to that prompt corresponds to a section on the README.
 
 ## Usage
 
