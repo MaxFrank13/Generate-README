@@ -7,7 +7,7 @@
 
 This is a simple README Generator. You will be prompted to for details that will then be used to generate a markdown file.
 
-[![Screenshot of Generator](https://github.com/MaxFrank13/Generate-README/blob/main/assets/app-photo.PNG)]
+![Screenshot of Generator](https://github.com/MaxFrank13/Generate-README/blob/main/assets/app-photo.PNG)
 
 ## Table of Contents
 
