@@ -20,7 +20,7 @@ This is a simple README Generator. You will be prompted to for details that will
 
 ## Installation
 
-Make sure you have Node installed first, then run `npm i` or `npm install`. Once the installation is complete, run `node index.js` and you should receive prompts in the terminal. Each answer to that prompt corresponds to a section on the README.
+Make sure you have Node installed first, then run `npm i` or `npm install`. Once the installation is complete, run `node index.js` and you should receive prompts in the terminal. Each answer to that prompt corresponds to a section on the README. Your generated README can be found in the 'generated' directory. Each time you generate a README, this file will be overwritten. Make sure you to save it somewhere else before generating a new one.
 
 ## Usage
 
