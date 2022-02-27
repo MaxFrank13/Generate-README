@@ -1,11 +1,11 @@
 
 # README Generator
 
-[![License Badge](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License Badge](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description
 
-This is a basic README Generator. You will be prompted to answer a series of questions. The answers will be used to generate a markdown file.
+You can generate a README using this simple command line application. Enter your information to the prompts provided and it will be logged into a markdown file.
 
 ## Table of Contents
 
@@ -18,23 +18,23 @@ This is a basic README Generator. You will be prompted to answer a series of que
 
 ## Installation
 
-Make sure you have node installed first. Then run `npm i` or `npm install`.
+Run `npm i` or `npm intall`. If you don't have node installed, you'll need to do that first. Then run `node index.js` to start the prompts.
 
 ## Usage
 
-This can be used for any future READMEs and projects. In order to add screenshots and fine details, the user will need to go into the file and add them manually, however, the basic stucture of a professional README is provided.
+Any README can start here!
 
 ## Contributing
 
-Feel free to fork the repo and use it for yourself!
+Fork the repo and use it for your own!
 
 ## Tests
 
-No tests required or performed yet.
+None yet.
 
 ## License
 
-This project is covered by the Apache License 2.0. Click the badge at the top of the README for more information.
+This project is covered by the Mozilla Public License 2.0. Click the badge at the top of the README for more information.
 
 ## Questions
 
